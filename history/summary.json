@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1584,
-    "timeDay": 1584,
-    "timeWeek": 1584,
-    "timeMonth": 1584,
-    "timeYear": 1584,
+    "time": 1145,
+    "timeDay": 1145,
+    "timeWeek": 1145,
+    "timeMonth": 1145,
+    "timeYear": 1145,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/app.eddy-analytics.org",
     "slug": "eddy-analytics-demo",
     "status": "down",
-    "uptime": "2.64%",
-    "uptimeDay": "2.64%",
-    "uptimeWeek": "2.64%",
-    "uptimeMonth": "2.64%",
-    "uptimeYear": "2.64%",
-    "time": 893,
-    "timeDay": 893,
-    "timeWeek": 893,
-    "timeMonth": 893,
-    "timeYear": 893,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 904,
+    "timeDay": 904,
+    "timeWeek": 904,
+    "timeMonth": 904,
+    "timeYear": 904,
     "dailyMinutesDown": {
-      "2021-05-05": 2
+      "2021-05-06": 21,
+      "2021-05-05": 156
     }
   }
 ]
