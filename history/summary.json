@@ -22,19 +22,19 @@
     "url": "https://app.eddy-analytics.org/",
     "icon": "https://favicons.githubusercontent.com/app.eddy-analytics.org",
     "slug": "eddy-analytics-demo",
-    "status": "down",
+    "status": "up",
     "uptime": "0.01%",
     "uptimeDay": "0.01%",
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 826,
-    "timeDay": 826,
-    "timeWeek": 826,
-    "timeMonth": 826,
-    "timeYear": 826,
+    "time": 825,
+    "timeDay": 825,
+    "timeWeek": 825,
+    "timeMonth": 825,
+    "timeYear": 825,
     "dailyMinutesDown": {
-      "2021-05-06": 543,
+      "2021-05-06": 566,
       "2021-05-05": 156
     }
   }
