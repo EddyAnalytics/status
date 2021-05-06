@@ -13,7 +13,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/EddyAnalytics/eddy-analytics.org/main/assets/img/logo-brand.svg
   name: Eddy Analytics
   introTitle: "Uptime monitor and status page for Eddy Analytics."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/EddyAnalytics/status).
+  introMessage: This is a status page which uses data from our [GitHub status repository](https://github.com/EddyAnalytics/status).
   navbar:
     - title: Status
       href: /
