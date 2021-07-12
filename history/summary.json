@@ -4,7 +4,7 @@
     "url": "https://www.eddy-analytics.org/",
     "icon": "https://favicons.githubusercontent.com/www.eddy-analytics.org",
     "slug": "eddy-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 368,
     "timeMonth": 446,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   },
   {
     "name": "Eddy Analytics Demo",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/app.eddy-analytics.org",
     "slug": "eddy-analytics-demo",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.33%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 724,
     "timeDay": 885,
     "timeWeek": 744,
