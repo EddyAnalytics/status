@@ -4,7 +4,7 @@
     "url": "https://www.eddy-analytics.org/",
     "icon": "https://favicons.githubusercontent.com/www.eddy-analytics.org",
     "slug": "eddy-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 380,
     "timeYear": 503,
     "dailyMinutesDown": {
+      "2021-10-01": 0,
       "2021-08-30": 12,
       "2021-08-16": 26,
       "2021-07-15": 7,
