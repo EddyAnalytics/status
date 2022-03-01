@@ -4,7 +4,7 @@
     "url": "https://www.eddy-analytics.org/",
     "icon": "https://favicons.githubusercontent.com/www.eddy-analytics.org",
     "slug": "eddy-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
@@ -16,6 +16,7 @@
     "timeMonth": 327,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2022-03-01": 0,
       "2022-02-26": 57,
       "2022-01-29": 17,
       "2021-11-16": 22,
