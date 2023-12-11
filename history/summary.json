@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
-    "timeDay": 276,
-    "timeWeek": 294,
-    "timeMonth": 335,
-    "timeYear": 399,
+    "timeDay": 302,
+    "timeWeek": 291,
+    "timeMonth": 336,
+    "timeYear": 398,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.eddy-analytics.org.ico",
     "slug": "eddy-analytics-demo",
     "status": "down",
-    "uptime": "48.34%",
+    "uptime": "48.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 557,
+    "time": 565,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-10": 47,
+      "2023-12-11": 44,
+      "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -397,8 +398,7 @@
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
-      "2022-12-12": 1440,
-      "2022-12-11": 1440
+      "2022-12-12": 1440
     }
   }
 ]
