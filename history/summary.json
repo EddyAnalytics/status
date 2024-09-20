@@ -4,7 +4,7 @@
     "url": "https://www.eddy-analytics.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.eddy-analytics.org.ico",
     "slug": "eddy-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 385,
     "timeYear": 358,
     "dailyMinutesDown": {
+      "2024-09-20": 0,
       "2024-03-16": 18
     }
   },
@@ -25,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.eddy-analytics.org.ico",
     "slug": "eddy-analytics-demo",
     "status": "down",
-    "uptime": "37.17%",
+    "uptime": "37.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-20": 54,
+      "2024-09-20": 620,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
