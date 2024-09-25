@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eddy-analytics.org.ico",
     "slug": "eddy-analytics",
     "status": "down",
-    "uptime": "99.69%",
+    "uptime": "99.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.45%",
-    "uptimeMonth": "88.14%",
-    "uptimeYear": "99.01%",
-    "time": 380,
+    "uptimeWeek": "34.16%",
+    "uptimeMonth": "84.85%",
+    "uptimeYear": "98.73%",
+    "time": 379,
     "timeDay": 0,
-    "timeWeek": 319,
-    "timeMonth": 376,
+    "timeWeek": 344,
+    "timeMonth": 367,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-09-24": 56,
+      "2024-09-25": 57,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -30,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.eddy-analytics.org.ico",
     "slug": "eddy-analytics-demo",
     "status": "down",
-    "uptime": "37.05%",
+    "uptime": "37.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -41,7 +42,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-24": 56,
+      "2024-09-25": 57,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -404,8 +406,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
-      "2023-09-27": 1440,
-      "2023-09-26": 1440
+      "2023-09-27": 1440
     }
   }
 ]
