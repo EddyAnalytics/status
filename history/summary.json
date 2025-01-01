@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eddy-analytics.org.ico",
     "slug": "eddy-analytics",
     "status": "down",
-    "uptime": "92.37%",
+    "uptime": "92.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.16%",
+    "uptimeYear": "71.88%",
     "time": 357,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2024-12-31": 56,
+      "2025-01-01": 62,
+      "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -128,7 +129,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.eddy-analytics.org.ico",
     "slug": "eddy-analytics-demo",
     "status": "down",
-    "uptime": "34.33%",
+    "uptime": "34.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -139,7 +140,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-31": 56,
+      "2025-01-01": 62,
+      "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -502,8 +504,7 @@
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
-      "2024-01-03": 1440,
-      "2024-01-02": 1440
+      "2024-01-03": 1440
     }
   }
 ]
